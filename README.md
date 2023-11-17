@@ -1,27 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your GitHub Username</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 50px;
-        }
-        h1 {
-            color: #0366d6;
-        }
-        p {
-            color: #586069;
-        }
-    </style>
-</head>
-<body>
-    <h1>Welcome to My GitHub Pages Website!</h1>
-    <p>This is a simple landing page for my GitHub Pages site.</p>
-    <p>Feel free to explore the projects and repositories.</p>
-    <!-- Add more sections, links, or information as needed -->
-</body>
-</html>
+# Welcome to My GitHub Pages Website!
+
+This is a simple landing page for my GitHub Pages site.
+
+Feel free to explore the projects and repositories.
+
+## About Me
+
+I am [Your Name], a passionate developer interested in [your interests]. Check out my latest projects:
+
+- [Project 1](link_to_project_1)
+- [Project 2](link_to_project_2)
+
+## Contact
+
+You can reach me via email at [your.email@example.com].
+
+---
+
+**Note**: This README serves as the landing page for my GitHub Pages site. You can view the site [here](https://<username>.github.io).
